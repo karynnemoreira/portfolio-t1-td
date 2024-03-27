@@ -26,7 +26,7 @@ a{
 
 `
 
-//Estilização Sobre
+//Estilização Inicio
 
 export const Perfil = styled.img`
     width: 20vw;
@@ -34,7 +34,7 @@ export const Perfil = styled.img`
     border-radius: 50%;
 `
 
-export const ContainerSobre = styled.main`
+export const ContainerInicio = styled.main`
 display: flex;
 justify-content:space-evenly;
 align-items: center;
